@@ -1,0 +1,27 @@
+-x
+objective-c++
+-arch
+i386
+-gmodules
+-fpascal-strings
+-O0
+-DVST3_API
+-DCOCOA_PREFIX=vMostBasic
+-DSWELL_APP_PREFIX=Swell_vMostBasic
+-DSWELL_FORCE_COCOA_TEXT
+-D_DEBUG
+-DOBJC_OLD_DISPATCH_PROTOTYPES=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk
+-fasm-blocks
+-mmacosx-version-min=10.13
+-g
+-fvisibility-inlines-hidden
+-I/Users/sharonlester/Downloads/m4u-IPlugWorkshop/m4u_IPlugExamples/MostBasic/build-mac/Debug/include
+-I/Users/sharonlester/Downloads/m4u-IPlugWorkshop/m4u_IPlugExamples/MostBasic/../../WDL/IPlug
+-I/Users/sharonlester/Downloads/m4u-IPlugWorkshop/m4u_IPlugExamples/MostBasic/../../VST3_SDK
+-F/Users/sharonlester/Downloads/m4u-IPlugWorkshop/m4u_IPlugExamples/MostBasic/build-mac/Debug
+i386-apple-darwin17.7.0
+"4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2)"
+SDK_PRODUCT_BUILD_VERSION=17E189
+17E189
